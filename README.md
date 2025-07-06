@@ -36,7 +36,7 @@ Dataset: IBM HR Analytics Dataset (available on Kaggle)
 
 💬 Feedback  
 Feel free to explore, fork the repo, and suggest improvements.  
-Connect with me on LinkedIn: https://www.linkedin.com/in/sai-madhavi-latha-maddali-ab442a228/  
+Connect with me on LinkedIn: https://www.linkedin.com/in/sai-madhavi-latha-maddali/  
 
 🔖 Hashtags  
 #MachineLearning #EmployeeAttrition #DataScience #Python #EDA #RandomForest #HRAnalytics
